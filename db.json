@@ -3,25 +3,25 @@
     {
       "Image": 1,
       "PropertyType": "House",
-      "PropertyID",
-      "Status",
-      "Read More"
+      "PropertyID":"123",
+      "Status":"posted",
+      "Read More":"hello"
     },
     
       {
       "Image": 1,
       "PropertyType": "House",
-      "PropertyID",
-      "Status",
-      "Read More"
+      "PropertyID":"123",
+      "Status":"posted",
+      "Read More":"hello"
     },
     
       {
       "Image": 1,
       "PropertyType": "House",
-      "PropertyID",
-      "Status",
-      "Read More"
+      "PropertyID":"123",
+      "Status":"posted",
+      "Read More":"hello"
     },
   ],
 

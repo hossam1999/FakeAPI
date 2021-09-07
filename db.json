@@ -1,6 +1,6 @@
 
-[
-  "P":[
+{
+"posts": [
   {
       "Image": 1,
       "PropertyType": "House",
@@ -22,4 +22,4 @@
       "Status":"posted",
       "Read More":"hello"
   }]
-]
+}
